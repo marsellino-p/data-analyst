@@ -36,3 +36,5 @@ The company's revenue figures increased from January to April, where April saw t
 6. Aero - $220
 
 However, from May to June there was a decline in sales of these models, resulting in a decline in the company's revenue
+
+The dashboard about this data can be seen on Google Data Studio, link: [Google Data Studio](https://datastudio.google.com/reporting/01193596-9e1f-46d0-96ad-cccd5247b046)
